@@ -1,8 +1,5 @@
 # Demon AI Music App
 
-**Past chats:** [1](https://chatgpt.com/c/6a0e8a73-8628-83ea-bff2-fc45a5942169) · [2](https://chatgpt.com/c/69cdc5d4-6808-8329-85ca-1d9a9fac349f) · [3](https://chatgpt.com/c/6977d14d-6d30-8326-9e0a-1d9220d2b08a) · [4](https://chatgpt.com/c/69f73590-9df4-83ea-af0c-09518ec6ef99) · [5](https://chatgpt.com/c/698d4f4d-ae50-8328-8223-51e99e4d77a5) · [6](https://chatgpt.com/c/6a03ca24-7530-83ea-adaa-49fbc5423906) · [7](https://chatgpt.com/c/6a03d353-a4bc-83ea-9c1d-2b2e95c29214) · [8](https://chatgpt.com/c/6a01bb88-d930-83ea-928c-d534317fae02) · [9](https://chatgpt.com/c/69fdc316-dd78-83ea-9ea0-605ae13436f0) · [10](https://chatgpt.com/c/6a0543fe-08dc-83ea-8a29-fa5d5779960f) · [11](https://chatgpt.com/c/698d0cac-f170-8326-9771-65d99a0af376) · [12](https://chatgpt.com/c/6a012bbb-ee94-83ea-993c-ca280017a5f6) · [13](https://chatgpt.com/c/69603d5b-5590-832d-aab0-533885cf32f9)
-
----
 
 # DEMON AI MUSIC APP — COMPREHENSIVE SOFTWARE DEVELOPMENT DESIGN
 
