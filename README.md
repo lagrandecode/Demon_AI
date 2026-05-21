@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/logo.png" alt="Demon AI logo" width="180" />
+</p>
+
 # Demon AI Music App
 
 
