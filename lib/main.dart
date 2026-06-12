@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_native_splash/flutter_native_splash.dart';
 
+import 'constants/app_colors.dart';
 import 'constants/app_constants.dart';
 import 'screens/intro_onboarding_screen.dart';
+import 'widgets/splash_screen.dart';
 
 void main() {
-  final widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
-  FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const DemonAiApp());
 }
 
@@ -21,7 +21,14 @@ class DemonAiApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
+        scaffoldBackgroundColor: AppColors.launchBackground,
       ),
+      builder: (context, child) {
+        return ColoredBox(
+          color: AppColors.launchBackground,
+          child: child ?? const SplashScreen(),
+        );
+      },
       home: const IntroOnboardingScreen(),
     );
   }

@@ -586,7 +586,7 @@ That is extremely viral. This project can genuinely be very strong if built corr
 
 ### Branding
 
-All launcher icons, splash screens, and Android notification icons are generated from `assets/images/logo.png`:
+Launcher icons and Android notification icons are generated from `assets/images/logo.png`:
 
 ```bash
 ./tool/generate_branding.sh
