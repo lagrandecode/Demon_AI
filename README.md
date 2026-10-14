@@ -2,7 +2,7 @@
   <img src="assets/images/logo.png" alt="Demon AI logo" width="180" />
 </p>
 
-# Demon AI Music App
+# Demon AI Music 
 
 
 # DEMON AI MUSIC APP — COMPREHENSIVE SOFTWARE DEVELOPMENT DESIGN
